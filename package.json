@@ -1,0 +1,25 @@
+{
+  "name": "destinyguidebook",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook build",
+    "init": "gitbook init",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willklein/destinyguidebook.git"
+  },
+  "author": "Will Klein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willklein/destinyguidebook/issues"
+  },
+  "homepage": "https://github.com/willklein/destinyguidebook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^1.0.1"
+  }
+}
